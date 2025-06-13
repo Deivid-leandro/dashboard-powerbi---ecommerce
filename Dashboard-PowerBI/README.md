@@ -65,7 +65,7 @@ Explorar o perfil demográfico e socioeconômico dos clientes, com foco em distr
  ┃ ┣ 📄Dashboard de Vendas.PNG
  ┃ ┗ 📄Dashboard de perfil do Cliente.PNG
  ┣ 📂Arquivos-PowerBI
- ┃ ┗ 📄Dashboard.pbix
+ ┃ ┗ 📄RID215113_Desafio01.pbix
  ┣ 📄README.md
 ```
 
